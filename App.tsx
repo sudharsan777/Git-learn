@@ -4,7 +4,8 @@ import React from 'react'
 const App = () => {
   return (
     <View style={{flex:1, justifyContent:'center', alignItems:'center'}}> 
-      <Text>hellow world !</Text>
+      <Text> Hellow world !</Text>
+      <Text> hellow bhai </Text>  
     </View>
   )
 }
