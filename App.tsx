@@ -3,11 +3,11 @@ import React from 'react'
 
 const App = () => {
   return (
-    <View>
+    <View style={{flex:1, justifyContent:'center', alignItems:'center'}}> 
       <Text>hellow world !</Text>
     </View>
   )
 }
-
+export default App;
 
 const styles = StyleSheet.create({})
