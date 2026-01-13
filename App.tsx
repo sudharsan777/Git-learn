@@ -6,6 +6,7 @@ const App = () => {
     <View style={{flex:1, justifyContent:'center', alignItems:'center'}}> 
       <Text> Hellow world !</Text>
       <Text> hellow bhai </Text>  
+      <Text> am Pro developer </Text>
     </View>
   )
 }
